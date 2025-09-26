@@ -6,7 +6,7 @@
 I'm a passionate **Java Backend Developer** with a keen interest in building scalable and efficient applications. I love learning new technologies and continuously improving my coding skills. Currently, I'm diving deep into **Git & GitHub** to manage my projects effectively.
 
 ## Skills
-- **Languages:** Java, SQL, HTML, CSS, JavaScript (Advance)
+- **Languages:** Java, SQL,MySql, HTML, CSS, JavaScript (Advance)
 - **Backend Development:** Java, Servlets, JSP, JDBC
 - **Front-End:** Html,Css , Javascript, React
 - **Version Control:** Git, GitHub

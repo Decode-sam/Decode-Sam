@@ -78,8 +78,8 @@ Programming
 🌍 Connect with Me
 
 <p float="left">    
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
+  <a href="https://www.linkedin.com/in/mohammad-sameer-158106278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+  <a href="mailto:mksam945@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
 </p>    
 ---  📊 GitHub Stats  
 ---

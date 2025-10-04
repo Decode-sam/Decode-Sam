@@ -90,5 +90,5 @@ Thanks for stopping by! 😊
 
 ---
 
-Isme se sirf percentage wla hata do
+
 
